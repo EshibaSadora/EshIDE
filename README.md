@@ -1,5 +1,3 @@
-![Иллюстрация к проекту](https://github.com/EshibaSadora/EshIDE/blob/master/img.PNG)
-
 Маленький самодельный редактор кода с возможностью сборки. 
 Подсветка синтаксиса для каждого языка, автозаполнение и прочие плюшки.
 
@@ -15,5 +13,8 @@
 Pyton https://www.python.org/
 
 В основе редактора лежит https://github.com/PavelTorgashov/FastColoredTextBox
+
+
+![Иллюстрация к проекту](https://github.com/EshibaSadora/EshIDE/blob/master/img.PNG)
 
 
