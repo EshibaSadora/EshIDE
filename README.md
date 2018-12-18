@@ -18,6 +18,7 @@ V1.0.0
 обычно находится в C:\Windows\Microsoft.NET\Framework64\v...\csc.exe 
 
 Для сборки CPP требуется MinGW или аналог https://sourceforge.net/projects/mingw/
+<br>
 Pyton https://www.python.org/
 
 В основе редактора лежит https://github.com/PavelTorgashov/FastColoredTextBox
